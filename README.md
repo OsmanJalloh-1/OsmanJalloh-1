@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Osman Jalloh
 
-<!--
-**OsmanJalloh-1/OsmanJalloh-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring computer science student and junior web/app developer. Hands-on experience with Python projects, Figma prototyping (from Barclays voluntary project), and interest in secure systems & cyber basics (Lloyds Future Ready certifacate).
 
-Here are some ideas to get you started:
+## Skills
+- Python (OOP, hashing, JSON)
+- Figma (Auto Layouts, components, prototyping)
+- Git & GitHub
+- UI/UX principles
+- Introductory AI/game dev concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Grade Management System](https://github.com/OsmanJalloh-1/grade-management-system) — Secure student grade tracker with access control & analytics
+
+## Currently
+- Building small Python tools & web prototypes
+- Applying for software/digital apprenticeships in the UK
+
+📫 Reach me: os_jl29@yahoo.com
+
+Thanks for visiting! 🚀
