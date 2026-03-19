@@ -1,6 +1,6 @@
 # Hi, I'm Osman Jalloh
 
-Aspiring computer science student and junior web/app developer. Hands-on experience with Python projects, Figma prototyping (from Barclays voluntary project), and interest in secure systems & cyber basics (Lloyds Future Ready certifacate).
+Aspiring computer science student and junior web/app developer. Hands-on experience with Python projects, Figma prototyping (from Barclays voluntary project), and interest in secure systems & cyber basics (Lloyds Future Ready certificate).
 
 ## Skills
 - Python (OOP, hashing, JSON)
